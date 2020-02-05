@@ -12,10 +12,10 @@ so you can know how to work.
 and more rule to help you build good website.
 
 
-## Chapter 1
+# Chapter 1
 it help you to understand what structure of the website should be and how it have to be like the reality by for example looking at other website structure and try to fixed the problem and the mastake 
 
-## Chapter 17
+# Chapter 17
  learn that the html is language use to build the structure of the website 
 
 and some of the html commands  like
@@ -33,7 +33,7 @@ and some of the html commands  like
 and more and some other functional command like the target to open new tab 
 
 
-## Chapter 8  
+# Chapter 8  
 1- htMl 4
 2- xhtMl 1.0
 3- htMl5
