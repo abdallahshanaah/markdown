@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/abdallahshanaah/markdown/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Chapter 18
 
-### Markdown
+### Who is the site For?
+Every website should be designed for the target audience—not just for yourself or the site owner.
+and why people visit your website and what you should put in the website. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### WireFrames
+that you most drow the wireframes before you start desgin and code the website 
+so you can know how to work.
+and more rule to help you build good website.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Chapter 1
+it help you to understand what structure of the website should be and how it have to be like the reality by for example looking at other website structure and try to fixed the problem and the mastake 
 
-- Bulleted
-- List
+## Chapter 17
+ learn that the html is language use to build the structure of the website 
 
-1. Numbered
-2. List
+and some of the html commands  like
 
-**Bold** and _Italic_ and `Code` text
+1-<p></p>for the text 
 
-[Link](url) and ![Image](src)
-```
+2-<head></head>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+3-<header></header>
 
-### Jekyll Themes
+4-<body></body>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abdallahshanaah/markdown/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+5-<footer></footer> 
 
-### Support or Contact
+and more and some other functional command like the target to open new tab 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Chapter 8  
+1- htMl 4
+2- xhtMl 1.0
+3- htMl5
+the Doctype and
+the <!-- --> note tag
+and id attribute
