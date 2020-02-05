@@ -20,15 +20,15 @@ it help you to understand what structure of the website should be and how it hav
 
 and some of the html commands  like
 
-1-<p></p>for the text 
++ <p></p>for the text 
 
-2-<head></head>
+2- <head></head>
 
-3-<header></header>
+3- <header></header>
 
-4-<body></body>
+4- <body></body>
 
-5-<footer></footer> 
+5- <footer></footer> 
 
 and more and some other functional command like the target to open new tab 
 
